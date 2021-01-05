@@ -26,12 +26,15 @@ module.exports = {
       {text: 'Contribute', link: '/contribute/'},
       {text: 'Brand', link: '/brand/'},
       {text: 'Community', link: '/community/'}
-      ]
-    sidebar: {
+      ],
+      sidebar: {
         '/overview/': [
           '',
           'install'
         ]
+
+
+      }
   },
   //title: siteData.title,
   description: siteData.description,
