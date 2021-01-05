@@ -28,10 +28,14 @@ module.exports = {
       {text: 'Community', link: '/community/'}
       ],
       sidebar: {
-        '/overview/': [
+        '/overview/': 
+        [{
+          sidebarDepth: 3,
+          collapsable: false,
+          children: [
           '',
-          'install'
-        ]
+          'install']
+        }]
 
 
       }
