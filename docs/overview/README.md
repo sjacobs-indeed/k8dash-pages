@@ -10,9 +10,9 @@ k8dash (pronounced /kāt,daSH/ or Kate Dash) is an open source Kubernetes dashbo
 
 Please star the project at [github.com/indeedeng/k8dash.](github.com/indeedeng/k8dash)
 
-<img src="/k8dash-pages/images/k8dash-screen.png" alt="k8dash user interface" class="img-with-border"/>
+<img src="k8dash-pages/images/k8dash-screen.png" alt="k8dash user interface" class="img-with-border"/>
 <br></br>
-<img src="/k8dash-pages/images/k8dash-mobile.png" alt="k8dash mobile user interface" class="img-with-border"/>
+<img src="k8dash-pages/images/k8dash-mobile.png" alt="k8dash mobile user interface" class="img-with-border"/>
 
 With k8dash you can do the following:
 - Fully manage your cluster, including namespaces, nodes, pods, replica sets, deployments, storage, RBAC, and more.
