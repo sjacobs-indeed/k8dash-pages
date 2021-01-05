@@ -27,6 +27,11 @@ module.exports = {
       {text: 'Brand', link: '/brand/'},
       {text: 'Community', link: '/community/'}
       ]
+    sidebar: {
+        '/overview/': [
+          '',
+          'install'
+        ]
   },
   //title: siteData.title,
   description: siteData.description,
